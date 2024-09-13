@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0334-increasing-triplet-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0605-can-place-flowers) |
 | [1319-unique-number-of-occurrences](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0334-increasing-triplet-subsequence) |
+| [0605-can-place-flowers](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
 | ------- |
