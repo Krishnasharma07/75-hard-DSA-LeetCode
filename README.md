@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0334-increasing-triplet-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
 | ------- |
