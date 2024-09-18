@@ -78,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1908-recyclable-and-low-fat-products) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
