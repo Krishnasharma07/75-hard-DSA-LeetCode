@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1848-sum-of-unique-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1848-sum-of-unique-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0206-reverse-linked-list) |
+## Counting
+|  |
+| ------- |
+| [1848-sum-of-unique-elements](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1848-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
