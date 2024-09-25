@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0443-string-compression) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0334-increasing-triplet-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0605-can-place-flowers) |
@@ -102,6 +104,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1646-kth-missing-positive-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
