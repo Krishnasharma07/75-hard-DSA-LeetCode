@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0147-insertion-sort-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Database
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0021-merge-two-sorted-lists) |
+| [0147-insertion-sort-list](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
