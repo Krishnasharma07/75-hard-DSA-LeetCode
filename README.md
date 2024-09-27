@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1894-merge-strings-alternately) |
+| [2032-largest-odd-number-in-string](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0605-can-place-flowers) |
+| [2032-largest-odd-number-in-string](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
