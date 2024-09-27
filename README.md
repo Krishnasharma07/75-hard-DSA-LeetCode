@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0283-move-zeroes) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1392-find-the-difference-of-two-arrays) |
