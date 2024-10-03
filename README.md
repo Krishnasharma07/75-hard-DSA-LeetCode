@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0334-increasing-triplet-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1319-unique-number-of-occurrences) |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
