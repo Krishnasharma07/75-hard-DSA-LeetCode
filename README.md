@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0287-find-the-duplicate-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0147-insertion-sort-list) |
+| [0217-contains-duplicate](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0217-contains-duplicate) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Database
 |  |
