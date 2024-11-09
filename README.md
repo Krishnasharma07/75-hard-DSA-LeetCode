@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0050-powx-n) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/2032-largest-odd-number-in-string) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0206-reverse-linked-list) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0287-find-the-duplicate-number) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Krishnasharma07/DSA-codes-LEETCODE-GFG-/tree/master/0795-k-th-symbol-in-grammar) |
 ## Divide and Conquer
 |  |
 | ------- |
